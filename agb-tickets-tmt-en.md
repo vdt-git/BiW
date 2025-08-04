@@ -1,56 +1,70 @@
-**General Terms and Conditions and Privacy Policy**  
-**General Terms and Conditions for Online Ticket Sales (electronic purchase of admission tickets) for the Tonmeistertagung 2023 (tmt32) in Düsseldorf**.  
-Status: (07.09.2023)
+**General Terms and Conditions (GTC) and Privacy Notice for Online Ticketing (Electronic Purchase of Admission Tickets) for the 33rd Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
+Effective Date: August 1, 2025
 
-## 1. General Terms and Conditions
-All purchases are accepted and carried out exclusively on the basis of these terms and conditions of the organiser, the Bildungswerk des Verbandes Deutscher Tonmeister GmbH (hereinafter referred to as BiW-vdt GmbH). Deviating conditions of the customer have no validity. With his purchase, the customer acknowledges these conditions. Additional agreements are only legally binding if they have been confirmed in writing by the organiser (BiW-vdt GmbH). Special regulations do not invalidate the remaining conditions. The purchase of tickets for the purpose of resale is generally prohibited.
-The BiW-vdt GmbH uses the electronic ticket system "Pretix" for the sale of tickets.
-The BiW-vdt GmbH uses the company "PayPal" as payment provider.
-The customer must be a trade visitor. 
-The tickets are personalised and only valid in conjunction with an official photo ID.
-Only conference tickets entitle the holder to attend the conference programme.
-Exhibition tickets do not give access to the lecture programme. 
-If the max. If the maximum capacity of a lecture room is reached, a congress ticket does not entitle the holder to attend this lecture. Note: Attention is drawn to the need to arrive in good time.
+## 1. General Provisions
+All purchases are accepted and fulfilled solely under these terms and conditions issued by the organizer, Bildungswerk des Verbandes Deutscher Tonmeister GmbH (hereinafter referred to as "BiW-vdt GmbH"). Deviating conditions of the customer shall not apply. By making a purchase, the customer acknowledges and agrees to these terms and conditions. Additional agreements are only legally binding if confirmed in writing by the organizer (BiW-vdt GmbH). Special arrangements do not override the other provisions. The purchase of tickets for the purpose of resale is strictly prohibited.  
+BiW-vdt GmbH utilizes the electronic ticketing system "Pretix" for ticket sales.  
+BiW-vdt GmbH uses the companies "Stripe" and "PayPal" as payment service providers. Customers must be trade visitors. Tickets are personalized and valid only when presented together with an official photo ID. Only congress tickets grant access to the conference program. Exhibition-only tickets do not grant access to the conference sessions. If the maximum capacity of a conference room is reached, possession of a congress ticket does not guarantee entry to that particular session. Note: Timely arrival is strongly advised.
 
 ## 2. Offers and Prices
-Offers and prices are always subject to change. Prices lose their validity with the appearance of a new price list. Our prices include the statutory value added tax.  
-Concessionary tickets for schoolchildren, apprentices or students are only available to persons up to and including 35 years of age.
+All offers and prices are subject to change without notice. Prices become invalid upon the release of a new price list. All prices include applicable statutory VAT.  
+Discounted tickets for pupils, apprentices, or students are only available to individuals up to and including 35 years of age.
 
-## 3. Purchase, Invoicing
-By purchasing tickets online, the online ticketing customer declares his or her consent to the online ticket being transmitted and to the invoice being issued electronically. There is no entitlement to invoicing by paper invoice document. 
-The exchange and return or refund of tickets is not possible.
-Lost tickets will not be replaced.
-Pursuant to § 312 b III No. 6 of the German Civil Code (BGB), ticket purchases on the Internet are not subject to the rules on distance contracts. Therefore, there is no right of withdrawal according to § 355 BGB. All purchases are therefore final and binding.
+## 3. Purchase and Invoicing
+By purchasing tickets online, the customer agrees to receive both the ticket and the invoice electronically. There is no entitlement to a paper invoice. Tickets are non-refundable and non-exchangeable. Lost tickets will not be replaced. Pursuant to § 312 b III Nr. 6 of the German Civil Code (BGB), online ticket purchases do not fall under distance selling regulations. Therefore, there is no statutory right of withdrawal under § 355 BGB. All purchases are final and binding.
 
-## 4. Terms of Payment
-Payment for online tickets is made by PayPal when purchased. External service providers are used to process the payment.
-If a payment is charged back (e.g. due to insufficient funds in the account specified when the order was placed), the participant must compensate any damage or expenses arising from the charge back. This includes in particular the bank charges as well as a processing fee of EUR 10.00 per chargeback for processing by the organiser (BiW-vdt GmbH).
-In the event of a chargeback, the organiser (BiW-vdt GmbH) is entitled to withdraw from the contract immediately. The participant thereby loses his/her right to participate in the event. Further claims of the organiser (BiW-vdt GmbH) against the participants are not affected by this.
+## 4. Payment Terms
+Payment for online tickets must be made via PayPal at the time of purchase. External service providers are used to process payments. In the event of a payment reversal (e.g., due to insufficient funds), the participant shall be liable for all resulting damages and costs, including bank charges and a processing fee of EUR 10.00 per reversal charged by the organizer (BiW-vdt GmbH). In the case of a payment reversal, the organizer (BiW-vdt GmbH) reserves the right to immediately withdraw from the contract. The participant will then lose the right to attend the event. Additional claims by the organizer (BiW-vdt GmbH) remain unaffected.
 
 ## 5. Data Protection
-The personal data of the buyer collected during the online purchase will be handled in accordance with the DSGVO. The data protection statements of Pretix and PayPal are part of these GTC:  
-https://pretix.eu/about/de/privacy  
-https://www.paypal.com/webapps/mpp/ua/privacy-full  
-An anonymised QR code is printed on each ticket. With the respective consent of the customer, this can be scanned by exhibitors to conveniently save the conversation contact (name, the email address and the country) via an app.
+The personal data collected during the online purchase will be handled in accordance with the General Data Protection Regulation (GDPR). The privacy policies of Pretix and Stripe form part of these GTC:
 
-## 6. Images and Sound recordings
-The customer agrees for all known and unknown types of use in all media, free of charge and unlimited in time and place, that BiW-vdt GmbH or third parties commissioned by BiW-vdt GmbH are entitled to to make image and/or sound recordings of him/her in the context of the event and to use, edit and, also in edited form, reproduce, distribute, exhibit, make publicly accessible and archive them in whole or in part for editorial reporting as well as for marketing and advertising purposes for the event and BiW-vdt GmbH on a non-commercial and commercial basis.
++ https://pretix.eu/about/en/privacy
++ https://stripe.com/privacy
++ https://www.paypal.com/en/legalhub/paypal/privacy-full
 
-## 7. Unforeseen Events
-BiW-vdt GmbH is entitled to postpone, shorten, terminate or cancel the physical conference in whole or in part or to change the content appropriately, taking into account the interests of the participants, in the event of compelling reasons for which BiW-vdt GmbH is not responsible (e.g. industrial disputes, official or statutory orders) or force majeure (e.g. extreme weather conditions, catastrophes, war, terrorist threat, fire, danger to the life or health of the participants).
-BiW-vdt GmbH shall not be liable for expenses or damages in the event of a change to the event within the above-mentioned scope (including cancellation, postponement, shortening).
-In the event of cancellation of the event, the admission fees will be refunded without system fees upon presentation of the original ticket.
+Each ticket contains an anonymized QR code. With the customer's consent, exhibitors may scan this code to conveniently store the customer's contact information (name, email address, and country) via an app.
+
+## 6. Consent to Audio and Visual Recordings and Their Use
+The customer agrees that audio and/or visual recordings of their person may be made during the event by BiW-vdt GmbH or third parties commissioned by it.
+
+The customer grants irrevocable, royalty-free, and unlimited (in terms of time, geography, and content) consent for these recordings to be used in all currently known and future media and formats. This includes, in particular, editing, reproduction, distribution, exhibition, public access, archiving, as well as publication and use for editorial, documentary, promotional, and commercial purposes – both in connection with the event and for the general public relations and marketing of BiW-vdt GmbH.
+
+The consent applies to both original and edited versions, regardless of the storage medium or transmission method (e.g., print, online, social media, television, streaming, etc.).
+
+## 7. Unforeseen Events / Force Majeure
+BiW-vdt GmbH is entitled to reschedule, shorten, cancel, or reasonably modify the content of the event, in whole or in part, due to compelling circumstances beyond its control (e.g., official orders, legal requirements, strikes, failure of essential services) or due to force majeure (e.g., natural disasters, extreme weather conditions, fire, war, terrorist threats, epidemics/pandemics, or other threats to the life and safety of participants).
+
+In such cases, no claims for damages or reimbursement of expenses can be asserted against BiW-vdt GmbH.
+
+If the event is fully canceled for any of the reasons stated above, already paid participation fees will be refunded – excluding system and other presale fees – upon presentation of the original ticket.
 
 ## 8. Liability
-BiW-vdt GmbH shall be liable without limitation for damages to the customer only if these are attributable to its intentional or grossly negligent conduct. In the case of slightly negligent breaches of duty BiW-vdt GmbH shall only be liable in the event of a breach of one of its essential contractual duties (cardinal duty). In this case the liability of BiW-vdt GmbH is limited to the direct damage of the customer which is typical for the contract and foreseeable at the time of conclusion of the contract. This also applies to breaches of duty by legal representatives and/or vicarious agents of BiW-vdt GmbH. Liability for culpable injury to life, body or health remains unaffected by this limitation of liability.
-Further links may lead to Internet providers whose content is not the responsibility of BiW-vdt GmbH. These links are recognisable as such from the context or are marked separately. BiW-vdt GmbH has no influence whatsoever on the content provided there and does not adopt this content as its own. In particular, BiW-vdt GmbH expressly distances itself from the statements that can be called up there. 
+BiW-vdt GmbH shall be liable for damages to the customer only in cases of intent or gross negligence.
 
-Moreover, responsibility can only be established if BiW-vdt GmbH has knowledge of legal infringements and it is technically possible and reasonable for BiW-vdt GmbH to prevent their use (§ 8 para. 2 TMG). BiW-vdt GmbH has checked the external content for possible legal infringements to a reasonable extent. Violations of copyright, trademark or personal rights or infringements of competition law on the websites of third-party providers were not apparent and are not known to us, nor are any criminal offences committed there. The provider of these pages alone is liable for contents and damages resulting from the use or non-use of information presented in this way, and not the party who merely refers to the respective publication via links. This restriction also applies equally to third-party entries in guest books, discussion forums and mailing lists set up by BiW-vdt GmbH.
+In cases of slight negligence involving essential contractual obligations (cardinal duties), BiW-vdt GmbH's liability is limited to the typical, foreseeable, and direct damage under the contract. Cardinal duties are obligations whose fulfillment is essential for the proper execution of the contract and on whose observance the customer regularly relies.
 
-## 9. Special Covid-19 Provisions when visiting the physical Fair
-All customers/participants must comply with the regulations applicable to the event (e.g. negative proofs, distance and hygiene regulations), which are based on the Coronavirus Protection Ordinance (CoSchuV) of the Federal State of North Rhine-Westphalia relevant at the time of the event or corresponding official requirements.
+These liability limitations also apply to breaches of duty by legal representatives or agents of BiW-vdt GmbH. Liability for injury to life, body, or health remains unaffected.
 
-## 10. Other Provisions, Severability Clause
-Should individual provisions of the contract with the customer, including these GTC, be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions. The wholly or partially invalid provision shall be replaced by a provision which comes as close as possible to the economic purpose of the invalid provision in a legally permissible manner. The same applies to the filling of any contractual gaps.
-The provisions of German law shall apply exclusively.
-The exclusive place of jurisdiction for fully qualified merchants, for persons who do not have a general place of jurisdiction in Germany, as well as for persons who have moved their place of residence or habitual abode abroad after conclusion of the contract or whose place of residence or habitual abode is unknown at the time the action is brought, shall be the registered office of BiW-vdt GmbH in Baden-Baden.
+Disclaimer for Event Content  
+The content of the event is prepared and delivered with the utmost care. However, no warranty is provided regarding its accuracy, completeness, timeliness, or usability. The event does not constitute individualized consulting.
+
+Use of the information provided is at the participant’s own risk. BiW-vdt GmbH shall not be liable for any damage or disadvantage arising from reliance on or application of the content, subject to the aforementioned liability rules.
+
+Disclaimer for External Content (Links)  
+BiW-vdt GmbH’s websites and supporting materials for the event may contain links to third-party websites. BiW-vdt GmbH has no control over the content of such external websites and accepts no liability for them.
+
+At the time of linking, the external content was checked within a reasonable scope for possible legal violations and no illegal content was apparent. Continuous content monitoring of linked websites without specific evidence of legal violations is unreasonable. If any infringements become known, such links will be promptly removed.
+
+Only the provider of the linked page is liable for any damages resulting from the use or non-use of such content.
+
+This limitation also applies to third-party entries in guest books, discussion forums, and mailing lists set up by BiW-vdt GmbH.
+
+## 9. Miscellaneous / Severability Clause
+Should any provision of this contract, including these General Terms and Conditions, be or become wholly or partially invalid or unenforceable, the validity of the remaining provisions shall remain unaffected.
+
+The invalid or unenforceable provision shall be replaced by a legally permissible provision that most closely reflects the economic intent of the original. The same applies in cases of contractual omissions.
+
+The laws of the Federal Republic of Germany shall apply exclusively, excluding the UN Convention on Contracts for the International Sale of Goods (CISG).
+
+The place of jurisdiction for all disputes arising from or in connection with this contract shall be Baden-Baden. This applies especially to contracts with merchants, legal entities under public law, or special funds under public law, as well as to individuals who do not have a general place of jurisdiction in Germany or who relocate their domicile or habitual residence abroad after the contract is concluded or whose residence is unknown at the time of legal action.

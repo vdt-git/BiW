@@ -1,5 +1,5 @@
 **Allgemeine Geschäftsbedingungen (AGB) und Datenschutzhinweise für das Online-Ticketing (elektronischer Kauf von Eintrittskarten) zur 33. Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Stand: (01.08.2025)
+Stand: (30.08.2025)
 
 ## 1. Allgemeines
 Alle Käufe werden nur zu diesen Bedingungen des Veranstalters, der Bildungswerk des Verbandes Deutscher Tonmeister GmbH (im folgenden BiW-vdt GmbH) angenommen und ausgeführt. Abweichende Bedingungen des Kunden haben keine Gültigkeit. Durch seinen Kauf erkennt der Kunde diese Bedingungen an. Zusätzliche Vereinbarungen sind nur rechtsverbindlich, wenn sie vom Veranstalter (der BiW-vdt GmbH) schriftlich bestätigt sind. Sonderregelungen setzen die übrigen Bedingungen nicht außer Kraft. Der Erwerb von Eintrittskarten zwecks Weiterverkaufes ist generell untersagt. Für den Verkauf der Tickets setzt die BiW-vdt GmbH das elektronische Ticketsystem „Pretix“ ein.  

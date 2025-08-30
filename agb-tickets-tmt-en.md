@@ -1,5 +1,5 @@
 **General Terms and Conditions (GTC) and Privacy Notice for Online Ticketing (Electronic Purchase of Admission Tickets) for the 33rd Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Effective Date: August 1, 2025
+Effective Date: August 30, 2025
 
 ## 1. General Provisions
 All purchases are accepted and fulfilled solely under these terms and conditions issued by the organizer, Bildungswerk des Verbandes Deutscher Tonmeister GmbH (hereinafter referred to as "BiW-vdt GmbH"). Deviating conditions of the customer shall not apply. By making a purchase, the customer acknowledges and agrees to these terms and conditions. Additional agreements are only legally binding if confirmed in writing by the organizer (BiW-vdt GmbH). Special arrangements do not override the other provisions. The purchase of tickets for the purpose of resale is strictly prohibited.  

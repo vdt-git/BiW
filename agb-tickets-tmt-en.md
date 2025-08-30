@@ -19,10 +19,10 @@ Payment for online tickets must be made via PayPal at the time of purchase. Exte
 ## 5. Data Protection
 The buyer's personal data collected during the online purchase will be treated in accordance with the GDPR and will be stored, processed, and, if necessary, passed on to payment service providers or the KombiTicket partner exclusively in direct connection with the purchase of an admission ticket. The privacy policies of Pretix, Stripe, PayPal, and RIDE are an integral part of these terms and conditions:
 
-+ https://pretix.eu/about/de/privacy
-+ https://stripe.com/de/privacy
-+ https://www.paypal.com/webapps/mpp/ua/privacy-full
-+ https://ride-ticketing.de/Datenschutz (german)
++ [https://pretix.eu/about/en/privacy](https://pretix.eu/about/de/privacy)
++ [https://stripe.com/en/privacy](https://stripe.com/de/privacy)
++ [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
++ [https://ride-ticketing.de/Datenschutz](https://ride-ticketing.de/Datenschutz) (german)
 
 An anonymized QR code is printed on each name badge. With the customer's consent, this can be scanned by exhibitors in order to conveniently save the contact details (name, email address, and country) via an app (LEAD scanning). The exhibitor is responsible for the further processing, storage, and use of the data collected in this way in accordance with data protection regulations.
 

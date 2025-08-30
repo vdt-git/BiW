@@ -28,10 +28,10 @@ Im Falle der Rückbelastung ist der Veranstalter (die BiW-vdt GmbH) berechtigt, 
 ## 5. Datenschutz
 Die beim Online-Kauf erfassten persönlichen Daten des Käufers werden gemäß der DSGVO behandelt und werden ausschließlich im unmittelbaren Zusammenhang mit dem Erwerb eines Eintrittstickets gespeichert, weiterverarbeitet und je nach Erforderniss an Zahlungsdienstleister oder den KombiTicket-Partner weitergegeben. Die Datenschutzerklärungen von Pretix, Stripe, PayPal und RIDE sind Bestandteil dieser AGB:
 
-+ https://pretix.eu/about/de/privacy
-+ https://stripe.com/de/privacy
-+ https://www.paypal.com/webapps/mpp/ua/privacy-full
-+ https://ride-ticketing.de/Datenschutz
++ [https://pretix.eu/about/de/privacy](https://pretix.eu/about/de/privacy)
++ [https://stripe.com/de/privacy](https://stripe.com/de/privacy)
++ [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
++ [https://ride-ticketing.de/Datenschutz](https://ride-ticketing.de/Datenschutz)
 
 Auf jedem Namensschild (Badge) wird ein anonymisierter QR-Code abgedruckt. Mit der jeweiligen Zustimmung des Kunden kann dieser von Ausstellern gescannt werden, um den Gesprächskontakt (Namen, die E-Mail-Adresse und das Land) komfortabel über eine App zu speichern (LEAD-Scanning). Die datenschutzkonforme weitere Verarbeitung, Speicherung und Nutzung der auf diesem Weg erhobenen Daten liegt im Verantwortungsbereich des jeweiligen Ausstellers.
 

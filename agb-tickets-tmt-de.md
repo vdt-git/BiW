@@ -26,13 +26,14 @@ Sollte eine Zahlung rückbelastet werden (z. B. wegen fehlender Deckung des bei 
 Im Falle der Rückbelastung ist der Veranstalter (die BiW-vdt GmbH) berechtigt, vom Vertrag sofort zurückzutreten. Der Teilnehmer verliert damit seinen Anspruch auf Teilnahme an der Veranstaltung. Weitergehende Ansprüche des Veranstalters (der BiW-vdt GmbH) gegen die Teilnehmer werden dadurch nicht berührt.
 
 ## 5. Datenschutz
-Die beim Online-Kauf erfassten persönlichen Daten des Käufers werden gemäß der DSGVO behandelt. Die Datenschutzerklärungen von Pretix und Stripe sind Bestandteil dieser AGB:
+Die beim Online-Kauf erfassten persönlichen Daten des Käufers werden gemäß der DSGVO behandelt und werden ausschließlich im unmittelbaren Zusammenhang mit dem Erwerb eines Eintrittstickets gespeichert, weiterverarbeitet und je nach Erforderniss an Zahlungsdienstleister oder den KombiTicket-Partner weitergegeben. Die Datenschutzerklärungen von Pretix, Stripe, PayPal und RIDE sind Bestandteil dieser AGB:
 
 + https://pretix.eu/about/de/privacy
 + https://stripe.com/de/privacy
 + https://www.paypal.com/webapps/mpp/ua/privacy-full
++ https://ride-ticketing.de/Datenschutz
 
-Auf jedem Ticket wird ein anonymisierter QR-Code abgedruckt. Mit der jeweiligen Zustimmung des Kunden kann dieser von Ausstellern gescannt werden, um den Gesprächskontakt (Namen, die E-Mail-Adresse und das Land) komfortabel über eine App zu speichern.
+Auf jedem Namensschild (Badge) wird ein anonymisierter QR-Code abgedruckt. Mit der jeweiligen Zustimmung des Kunden kann dieser von Ausstellern gescannt werden, um den Gesprächskontakt (Namen, die E-Mail-Adresse und das Land) komfortabel über eine App zu speichern (LEAD-Scanning). Die datenschutzkonforme weitere Verarbeitung, Speicherung und Nutzung der auf diesem Weg erhobenen Daten liegt im Verantwortungsbereich des jeweiligen Ausstellers.
 
 ## 6. Einwilligung in Bild- und Tonaufnahmen sowie deren Nutzung
 Der Kunde erklärt sich damit einverstanden, dass im Rahmen der Veranstaltung Bild- und/oder Tonaufnahmen seiner Person durch die BiW-vdt GmbH oder durch von ihr beauftragte Dritte angefertigt werden dürfen.
@@ -61,6 +62,9 @@ Haftungsausschluss für Veranstaltungsinhalte
 Die Inhalte der Veranstaltung werden mit größtmöglicher Sorgfalt geplant, erstellt und vermittelt. Eine Gewähr für deren Richtigkeit, Vollständigkeit, Aktualität oder Verwertbarkeit wird jedoch nicht übernommen. Die Veranstaltung ersetzt keine individuelle Beratung.
 
 Die Nutzung der vermittelten Informationen erfolgt auf eigenes Risiko der Teilnehmer. Für Schäden oder Nachteile, die aus dem Vertrauen auf Inhalte der Veranstaltung oder deren Anwendung entstehen, haftet die BiW-vdt GmbH nicht – vorbehaltlich der oben genannten Haftungsregelungen.
+
+Haftungsauschluss für Verstöße gegen die DSGVO durch Aussteller  
+Die BiW-vdt GmbH haftet nicht für Verstöße gegen die DSGVO, die durch die weitere Verarbeitung, Speicherung und Nutzung von personenbezogenen Daten entstanden sind, welche durch einen Aussteller erhoben wurden (LEAD-Scanning).
 
 Haftungsausschluss für externe Inhalte (Links)  
 Die Internetseiten der BiW-vdt GmbH sowie begleitende Materialien zur Veranstaltung können Links zu externen Webseiten Dritter enthalten. Auf deren Inhalte hat die BiW-vdt GmbH keinen Einfluss und übernimmt hierfür keine Haftung.

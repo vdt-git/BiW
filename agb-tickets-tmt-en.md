@@ -17,13 +17,14 @@ By purchasing tickets online, the customer agrees to receive both the ticket and
 Payment for online tickets must be made via PayPal at the time of purchase. External service providers are used to process payments. In the event of a payment reversal (e.g., due to insufficient funds), the participant shall be liable for all resulting damages and costs, including bank charges and a processing fee of EUR 10.00 per reversal charged by the organizer (BiW-vdt GmbH). In the case of a payment reversal, the organizer (BiW-vdt GmbH) reserves the right to immediately withdraw from the contract. The participant will then lose the right to attend the event. Additional claims by the organizer (BiW-vdt GmbH) remain unaffected.
 
 ## 5. Data Protection
-The personal data collected during the online purchase will be handled in accordance with the General Data Protection Regulation (GDPR). The privacy policies of Pretix and Stripe form part of these GTC:
+The buyer's personal data collected during the online purchase will be treated in accordance with the GDPR and will be stored, processed, and, if necessary, passed on to payment service providers or the KombiTicket partner exclusively in direct connection with the purchase of an admission ticket. The privacy policies of Pretix, Stripe, PayPal, and RIDE are an integral part of these terms and conditions:
 
-+ https://pretix.eu/about/en/privacy
-+ https://stripe.com/privacy
-+ https://www.paypal.com/en/legalhub/paypal/privacy-full
++ https://pretix.eu/about/de/privacy
++ https://stripe.com/de/privacy
++ https://www.paypal.com/webapps/mpp/ua/privacy-full
++ https://ride-ticketing.de/Datenschutz (german)
 
-Each ticket contains an anonymized QR code. With the customer's consent, exhibitors may scan this code to conveniently store the customer's contact information (name, email address, and country) via an app.
+An anonymized QR code is printed on each name badge. With the customer's consent, this can be scanned by exhibitors in order to conveniently save the contact details (name, email address, and country) via an app (LEAD scanning). The exhibitor is responsible for the further processing, storage, and use of the data collected in this way in accordance with data protection regulations.
 
 ## 6. Consent to Audio and Visual Recordings and Their Use
 The customer agrees that audio and/or visual recordings of their person may be made during the event by BiW-vdt GmbH or third parties commissioned by it.
@@ -50,6 +51,9 @@ Disclaimer for Event Content
 The content of the event is prepared and delivered with the utmost care. However, no warranty is provided regarding its accuracy, completeness, timeliness, or usability. The event does not constitute individualized consulting.
 
 Use of the information provided is at the participant’s own risk. BiW-vdt GmbH shall not be liable for any damage or disadvantage arising from reliance on or application of the content, subject to the aforementioned liability rules.
+
+Disclaimer for violations of the GDPR by exhibitors  
+BiW-vdt GmbH is not liable for violations of the GDPR resulting from the further processing, storage, and use of personal data collected by an exhibitor (LEAD scanning).
 
 Disclaimer for External Content (Links)  
 BiW-vdt GmbH’s websites and supporting materials for the event may contain links to third-party websites. BiW-vdt GmbH has no control over the content of such external websites and accepts no liability for them.

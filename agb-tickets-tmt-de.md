@@ -20,7 +20,7 @@ Der Umtausch und die Rückgabe bzw. Erstattung von Eintrittskarten ist nicht mö
 Verlorengegangene Tickets werden nicht ersetzt.
 Nach § 312 b III Nr. 6 des Bürgerlichen Gesetzbuches (BGB) unterfällt der Ticketkauf im Internet nicht den Regeln über Fernabsatzverträge. Es besteht daher kein Widerrufsrecht nach § 355 BGB. Alle Käufe sind daher endgültig und verbindlich.
 
-## 4. Zahlungsbedingungen
+## 4. Zahlungs&shy;bedingungen
 Die Zahlung der Online-Tickets erfolgt bei Kauf per PayPal. Zur Abwicklung der Zahlung werden externe Dienstleister eingesetzt.
 Sollte eine Zahlung rückbelastet werden (z. B. wegen fehlender Deckung des bei der Bestellung angegebenen Kontos), hat der Teilnehmer jeglichen Schaden bzw. jegliche Aufwendung zu ersetzen, der/die aus der Rückbelastung entstehen. Hierzu gehören insbesondere die Bankgebühren sowie jeweils eine Bearbeitungsgebühr in Höhe von 10,00 EUR pro Rückbelastung für die Bearbeitung durch den Veranstalter (die BiW-vdt GmbH).
 Im Falle der Rückbelastung ist der Veranstalter (die BiW-vdt GmbH) berechtigt, vom Vertrag sofort zurückzutreten. Der Teilnehmer verliert damit seinen Anspruch auf Teilnahme an der Veranstaltung. Weitergehende Ansprüche des Veranstalters (der BiW-vdt GmbH) gegen die Teilnehmer werden dadurch nicht berührt.

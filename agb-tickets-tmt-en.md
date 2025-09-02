@@ -1,5 +1,5 @@
 **General Terms and Conditions (GTC) and Privacy Notice for Online Ticketing (Electronic Purchase of Admission Tickets) for the 33rd Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Effective Date: August 30, 2025
+Effective Date: September 2, 2025
 
 ## 1. General Provisions
 All purchases are accepted and fulfilled solely under these terms and conditions issued by the organizer, Bildungswerk des Verbandes Deutscher Tonmeister GmbH (hereinafter referred to as "BiW-vdt GmbH"). Deviating conditions of the customer shall not apply. By making a purchase, the customer acknowledges and agrees to these terms and conditions. Additional agreements are only legally binding if confirmed in writing by the organizer (BiW-vdt GmbH). Special arrangements do not override the other provisions. The purchase of tickets for the purpose of resale is strictly prohibited.  
@@ -14,7 +14,7 @@ Discounted tickets for pupils, apprentices, or students are only available to in
 By purchasing tickets online, the customer agrees to receive both the ticket and the invoice electronically. There is no entitlement to a paper invoice. Tickets are non-refundable and non-exchangeable. Lost tickets will not be replaced. Pursuant to § 312 b III Nr. 6 of the German Civil Code (BGB), online ticket purchases do not fall under distance selling regulations. Therefore, there is no statutory right of withdrawal under § 355 BGB. All purchases are final and binding.
 
 ## 4. Payment Terms
-Payment for online tickets must be made via PayPal at the time of purchase. External service providers are used to process payments. In the event of a payment reversal (e.g., due to insufficient funds), the participant shall be liable for all resulting damages and costs, including bank charges and a processing fee of EUR 10.00 per reversal charged by the organizer (BiW-vdt GmbH). In the case of a payment reversal, the organizer (BiW-vdt GmbH) reserves the right to immediately withdraw from the contract. The participant will then lose the right to attend the event. Additional claims by the organizer (BiW-vdt GmbH) remain unaffected.
+External service providers (PayPal, STRIPE) are used to process payments. In the event of a payment reversal (e.g., due to insufficient funds), the participant shall be liable for all resulting damages and costs, including bank charges and a processing fee of EUR 10.00 per reversal charged by the organizer (BiW-vdt GmbH). In the case of a payment reversal, the organizer (BiW-vdt GmbH) reserves the right to immediately withdraw from the contract. The participant will then lose the right to attend the event. Additional claims by the organizer (BiW-vdt GmbH) remain unaffected.
 
 ## 5. Data Protection
 The buyer's personal data collected during the online purchase will be treated in accordance with the GDPR and will be stored, processed, and, if necessary, passed on to payment service providers or the KombiTicket partner exclusively in direct connection with the purchase of an admission ticket. The privacy policies of Pretix, Stripe, PayPal, and RIDE are an integral part of these terms and conditions:

@@ -1,5 +1,5 @@
 **Allgemeine Geschäftsbedingungen (AGB) und Datenschutzhinweise für das Online-Ticketing (elektronischer Kauf von Eintrittskarten) zur 33. Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Stand: (30.08.2025)
+Stand: (02.09.2025)
 
 ## 1. Allgemeines
 Alle Käufe werden nur zu diesen Bedingungen des Veranstalters, der Bildungswerk des Verbandes Deutscher Tonmeister GmbH (im folgenden BiW-vdt GmbH) angenommen und ausgeführt. Abweichende Bedingungen des Kunden haben keine Gültigkeit. Durch seinen Kauf erkennt der Kunde diese Bedingungen an. Zusätzliche Vereinbarungen sind nur rechtsverbindlich, wenn sie vom Veranstalter (der BiW-vdt GmbH) schriftlich bestätigt sind. Sonderregelungen setzen die übrigen Bedingungen nicht außer Kraft. Der Erwerb von Eintrittskarten zwecks Weiterverkaufes ist generell untersagt. Für den Verkauf der Tickets setzt die BiW-vdt GmbH das elektronische Ticketsystem „Pretix“ ein.  
@@ -21,7 +21,7 @@ Verlorengegangene Tickets werden nicht ersetzt.
 Nach § 312 b III Nr. 6 des Bürgerlichen Gesetzbuches (BGB) unterfällt der Ticketkauf im Internet nicht den Regeln über Fernabsatzverträge. Es besteht daher kein Widerrufsrecht nach § 355 BGB. Alle Käufe sind daher endgültig und verbindlich.
 
 ## 4. Zahlungs&shy;bedingungen
-Die Zahlung der Online-Tickets erfolgt bei Kauf per PayPal. Zur Abwicklung der Zahlung werden externe Dienstleister eingesetzt.
+Zur Abwicklung der Zahlung werden externe Dienstleister (PayPal, STRIPE) eingesetzt.
 Sollte eine Zahlung rückbelastet werden (z. B. wegen fehlender Deckung des bei der Bestellung angegebenen Kontos), hat der Teilnehmer jeglichen Schaden bzw. jegliche Aufwendung zu ersetzen, der/die aus der Rückbelastung entstehen. Hierzu gehören insbesondere die Bankgebühren sowie jeweils eine Bearbeitungsgebühr in Höhe von 10,00 EUR pro Rückbelastung für die Bearbeitung durch den Veranstalter (die BiW-vdt GmbH).
 Im Falle der Rückbelastung ist der Veranstalter (die BiW-vdt GmbH) berechtigt, vom Vertrag sofort zurückzutreten. Der Teilnehmer verliert damit seinen Anspruch auf Teilnahme an der Veranstaltung. Weitergehende Ansprüche des Veranstalters (der BiW-vdt GmbH) gegen die Teilnehmer werden dadurch nicht berührt.
 

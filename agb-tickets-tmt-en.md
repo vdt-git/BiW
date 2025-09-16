@@ -1,5 +1,5 @@
 **General Terms and Conditions (GTC) and Privacy Notice for Online Ticketing (Electronic Purchase of Admission Tickets) for the 33rd Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Effective Date: September 2, 2025
+Effective Date: September 16, 2025
 
 ## 1. General Provisions
 All purchases are accepted and fulfilled solely under these terms and conditions issued by the organizer, Bildungswerk des Verbandes Deutscher Tonmeister GmbH (hereinafter referred to as "BiW-vdt GmbH"). Deviating conditions of the customer shall not apply. By making a purchase, the customer acknowledges and agrees to these terms and conditions. Additional agreements are only legally binding if confirmed in writing by the organizer (BiW-vdt GmbH). Special arrangements do not override the other provisions. The purchase of tickets for the purpose of resale is strictly prohibited.  
@@ -24,7 +24,9 @@ The buyer's personal data collected during the online purchase will be treated i
 + [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
 + [https://ride-ticketing.de/Datenschutz](https://ride-ticketing.de/Datenschutz) (german)
 
-An anonymized QR code is printed on each name badge. With the customer's consent, this can be scanned by exhibitors in order to conveniently save the contact details (name, email address, and country) via an app (LEAD scanning). The exhibitor is responsible for the further processing, storage, and use of the data collected in this way in accordance with data protection regulations.
+An anonymised QR code is printed on each name badge. With the customer's consent, this can be scanned by exhibitors to conveniently save the contact details (name, email address, voluntary additional information on the name badge, country) via an app (LEAD scanning).  
+Exhibitors have the option of issuing vouchers for the free generation of tickets. Personal data (name, email address, voluntary additional information on the name badge, country) collected through the use of these vouchers is available to the issuing exhibitor for further use.  
+The exhibitor is responsible for the further processing, storage and use of the data collected in the aforementioned ways in accordance with data protection regulations. The exhibitor will provide information on data processing.
 
 ## 6. Consent to Audio and Visual Recordings and Their Use
 The customer agrees that audio and/or visual recordings of their person may be made during the event by BiW-vdt GmbH or third parties commissioned by it.

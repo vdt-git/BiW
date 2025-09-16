@@ -1,5 +1,5 @@
 **Allgemeine Geschäftsbedingungen (AGB) und Datenschutzhinweise für das Online-Ticketing (elektronischer Kauf von Eintrittskarten) zur 33. Tonmeistertagung 2025 (tmt33) in Düsseldorf**  
-Stand: (02.09.2025)
+Stand: (16.09.2025)
 
 ## 1. Allgemeines
 Alle Käufe werden nur zu diesen Bedingungen des Veranstalters, der Bildungswerk des Verbandes Deutscher Tonmeister GmbH (im folgenden BiW-vdt GmbH) angenommen und ausgeführt. Abweichende Bedingungen des Kunden haben keine Gültigkeit. Durch seinen Kauf erkennt der Kunde diese Bedingungen an. Zusätzliche Vereinbarungen sind nur rechtsverbindlich, wenn sie vom Veranstalter (der BiW-vdt GmbH) schriftlich bestätigt sind. Sonderregelungen setzen die übrigen Bedingungen nicht außer Kraft. Der Erwerb von Eintrittskarten zwecks Weiterverkaufes ist generell untersagt. Für den Verkauf der Tickets setzt die BiW-vdt GmbH das elektronische Ticketsystem „Pretix“ ein.  
@@ -33,7 +33,9 @@ Die beim Online-Kauf erfassten persönlichen Daten des Käufers werden gemäß d
 + [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
 + [https://ride-ticketing.de/Datenschutz](https://ride-ticketing.de/Datenschutz)
 
-Auf jedem Namensschild (Badge) wird ein anonymisierter QR-Code abgedruckt. Mit der jeweiligen Zustimmung des Kunden kann dieser von Ausstellern gescannt werden, um den Gesprächskontakt (Namen, die E-Mail-Adresse und das Land) komfortabel über eine App zu speichern (LEAD-Scanning). Die datenschutzkonforme weitere Verarbeitung, Speicherung und Nutzung der auf diesem Weg erhobenen Daten liegt im Verantwortungsbereich des jeweiligen Ausstellers.
+Auf jedem Namensschild (Badge) wird ein anonymisierter QR-Code abgedruckt. Mit der jeweiligen Zustimmung des Kunden kann dieser von Ausstellern gescannt werden, um den Gesprächskontakt (Name, E-Mail-Adresse, freiwillige Zusatzangabe auf dem Namensschild, Land) komfortabel über eine App zu speichern (LEAD-Scanning).  
+Aussteller haben die Möglichkeit zur Vergabe von Gutscheinen zur kostenfreien Generierung von Tickets. Personenbezogene Daten (Name, E-Mail-Adresse, freiwillige Zusatzangabe auf dem Namensschild, Land), die durch die Nutzung dieser Gutscheine erhoben werden, stehen dem vergebenden Aussteller zur weiteren Nutzung zur Verfügung.  
+Die datenschutzkonforme weitere Verarbeitung, Speicherung und Nutzung, der auf den vorgenannten Wegen erhobenen Daten, liegt im Verantwortungsbereich des jeweiligen Ausstellers. Auskunft zur Datenverarbeitung erteilt der Aussteller.
 
 ## 6. Einwilligung in Bild- und Tonaufnahmen sowie deren Nutzung
 Der Kunde erklärt sich damit einverstanden, dass im Rahmen der Veranstaltung Bild- und/oder Tonaufnahmen seiner Person durch die BiW-vdt GmbH oder durch von ihr beauftragte Dritte angefertigt werden dürfen.
